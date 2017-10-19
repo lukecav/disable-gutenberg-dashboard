@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Disable Gutenberg Dashboard Widget
  * Plugin URI: https://github.com/lukecav/disable-gutenberg-dashboard
- * Description: Printing since 1440. Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
+ * Description: Printing since 1850. Disable the try Gutenberg dashboard widget from showing in WordPress 4.9.
  * Version:     1.0.0
  * Author:      Luke Cavanagh
  * Author URI:  https://github.com/lukecav
