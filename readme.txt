@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
-Disable the 'try Gutenberg' dashboard widget from showing in WordPress 4.9.3.
+Disable the 'try Gutenberg' dashboard widget from showing in WordPress 4.9.5.
 
 == Description ==
 
-The plugin will stop the 'try Gutenberg' dashboard widget from showing on sites running WordPress 4.9.3.
+The plugin will stop the 'try Gutenberg' dashboard widget from showing on sites running WordPress 4.9.5.
 
 == Frequently Asked Questions ==
 
