@@ -18,7 +18,7 @@ The plugin will stop the 'try Gutenberg' dashboard widget from showing on sites 
 
 = What does the plugin do? =
 
-It will stop the 'try Gutenberg' dashboard widget from showing on any sites running WordPress 4.9.3.
+It will stop the 'try Gutenberg' dashboard widget from showing on any sites running WordPress 4.9.5.
 
 == Installation ==
 
