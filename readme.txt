@@ -1,8 +1,8 @@
 === Disable Gutenberg Dashboard ===
 Contributors: lukecav
 Tags: gutenberg, disable, dashboard, widget, editor
-Requires at least: 4.9.3
-Tested up to: 4.9.2
+Requires at least: 4.9.2
+Tested up to: 4.9.4
 Requires PHP: 5.3
 Stable tag: 1.0.0
 License: MIT
