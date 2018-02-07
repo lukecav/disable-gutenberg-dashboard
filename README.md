@@ -1,9 +1,9 @@
 # Disable Gutenberg Dashboard
-Disable the 'try Gutenberg' dashboard widget from showing in WordPress 4.9.4.
+Disable the 'try Gutenberg' dashboard widget from showing in WordPress 4.9.5.
 
 ## Description
 
-The plugin will stop the 'try Gutenberg' dashboard widget from showing on sites running WordPress 4.9.4. Related ticket on [Core](https://core.trac.wordpress.org/ticket/41316).
+The plugin will stop the 'try Gutenberg' dashboard widget from showing on sites running WordPress 4.9.5. Related ticket on [Core](https://core.trac.wordpress.org/ticket/41316).
 
 ## Installation
 
