@@ -2,7 +2,7 @@
 Contributors: lukecav
 Tags: gutenberg, disable, dashboard, widget, editor
 Requires at least: 4.9.2
-Tested up to: 4.9.4
+Tested up to: 4.9.5
 Requires PHP: 5.3
 Stable tag: 1.0.0
 License: MIT
